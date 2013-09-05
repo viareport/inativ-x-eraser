@@ -1,6 +1,8 @@
 # A propos
 
-Modèle de dossier pour un web-component
+Un eraser à intégrer dans d'autres web-components
+
+Emet un event 'erased' lorsqu'il est clické
 
 # Tâches grunts
 
@@ -23,7 +25,3 @@ grunt demo
 # Build, test, versionne et package le web-component
 grunt dist      
 ```
-
-# A faire à la création d'un nouveau projet
-
-* Remplacer WEB_COMPONENT_NAME partout où il est présent
