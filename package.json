@@ -13,7 +13,7 @@
   "devDependencies": {
      "grunt": "~0.4.0",
     "spatester": "1.x.x",
-    "inativ-gruntfile": "0.x"
+    "inativ-gruntfile": "~0.0"
   },
   "engines": {
       "node": "~0.10.18"
